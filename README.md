@@ -7,7 +7,10 @@
 
 ### Team Members
 - Member 1: Aghin Khalid CP 
-- Member 2: Sreejith M 
+- Member 2: Sreejith M
+
+## 🔥 Live Demo
+Check out the live demo here: [CUCEK CONNECT Demo](https://lovable.dev/projects/6d7326f3-97c3-4ae8-97c2-b9610ca77b53)
 
 ### Project Description
 CUCEK CONNECT is a platform designed to streamline communication, collaboration, and resource sharing among students and faculty.
